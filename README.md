@@ -1,7 +1,7 @@
 # CMN432 – Communication in the Engineering Professions
 
 **Institution:** Toronto Metropolitan University  
-**Course Code:** CMN432 (formerly CCMN432)  
+**Course Code:** CMN432 
 **Focus:** Technical Communication, Engineering Writing, Collaboration, Presentation
 
 ---
