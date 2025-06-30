@@ -34,8 +34,12 @@ Students applied these skills in written assignments, group projects, oral prese
 
 ## ⚠️ Policy 60 – Academic Integrity
 
-All work in this repository is intended for reference and educational purposes only. Students must adhere to [Policy 60 – Academic Integrity](https://www.torontomu.ca/senate/policies/pol60.pdf). Unauthorized use, copying, or submission of this material as original work may lead to academic misconduct proceedings.
+All work in this repository complies with Toronto Metropolitan University’s Senate Policy 60 – Academic Integrity.
+These materials are original, created solely for academic purposes, and reflect ethical academic conduct.
+
+Students currently enrolled in this course are expected to strictly follow Policy 60.
+Use of this repository is intended to support learning and must not violate course or institutional academic standards.
 
 ---
 
-© 2025 Hamza Malik 
+© 2023 Hamza Malik 
